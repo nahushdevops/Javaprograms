@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="56" started-at="2019-06-30T14:20:15Z" finished-at="2019-06-30T14:20:15Z">
+  <suite name="Default suite" duration-ms="48" started-at="2019-07-05T12:56:49Z" finished-at="2019-07-05T12:56:49Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="56" started-at="2019-06-30T14:20:15Z" finished-at="2019-06-30T14:20:15Z">
-      <class name="testscripts.test123">
-        <test-method status="PASS" signature="test()[pri:0, instance:testscripts.test123@6276ae34]" name="test" duration-ms="20" started-at="2019-06-30T19:50:15Z" finished-at="2019-06-30T19:50:15Z">
+    <test name="Default test" duration-ms="48" started-at="2019-07-05T12:56:49Z" finished-at="2019-07-05T12:56:49Z">
+      <class name="testscripts.sum">
+        <test-method status="PASS" signature="sumofnumbers()[pri:0, instance:testscripts.sum@3c09711b]" name="sumofnumbers" duration-ms="16" started-at="2019-07-05T18:26:49Z" finished-at="2019-07-05T18:26:49Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-      </class> <!-- testscripts.test123 -->
+        </test-method> <!-- sumofnumbers -->
+      </class> <!-- testscripts.sum -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
