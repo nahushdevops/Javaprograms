@@ -1,7 +1,10 @@
 package test1.examples;
 
-public class ExampleAndOr {
+import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 
+public class ExampleAndOr {
+@Test
 	public static void main(String[] args) {
 		int x = 10;
 		int y = 10;
