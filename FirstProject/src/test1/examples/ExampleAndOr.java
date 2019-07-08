@@ -1,7 +1,7 @@
 package test1.examples;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.Test;
+
 
 public class ExampleAndOr {
 @Test
